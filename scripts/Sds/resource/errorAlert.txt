@@ -1,0 +1,554 @@
+2024-09-05 16:36:05 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1383324536
+date: 2024-09-15 00:00:00-2025-03-20 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:06 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775743
+date: 2024-09-15 00:00:00-2025-03-18 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:07 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775788
+date: 2025-03-07 00:00:00-2025-03-13 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:07 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775812
+date: 2025-02-16 00:00:00-2025-02-22 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:14 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775835
+date: 2025-03-23 00:00:00-2025-03-29 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:15 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775812
+date: 2025-03-07 00:00:00-2025-03-08 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:19 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775724
+date: 2024-09-15 00:00:00-2024-09-16 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:24 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775743
+date: 2025-03-28 00:00:00-2025-03-29 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:24 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1373887835
+date: 2024-11-04 00:00:00-2024-11-08 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+16:36
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:28 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1383324536
+date: 2025-01-03 00:00:00-2025-01-09 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:30 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1373887835
+date: 2025-02-21 00:00:00-2025-02-22 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:36 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1373887835
+date: 2025-01-29 00:00:00-2025-03-01 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:37 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775852
+date: 2025-02-16 00:00:00-2025-02-22 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:38 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775835
+date: 2025-02-23 00:00:00-2025-02-27 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:41 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775743
+date: 2024-12-13 00:00:00-2024-12-19 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:46 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775835
+date: 2025-02-04 00:00:00-2025-02-08 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:50 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775868
+date: 2024-10-29 00:00:00-2024-11-02 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:51 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1373887835
+date: 2025-01-01 00:00:00-2025-01-27 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:54 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775743
+date: 2025-02-04 00:00:00-2025-02-08 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:36
+2024-09-05 16:36:57 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775788
+date: 2024-11-30 00:00:00-2024-12-05 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:04 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775743
+date: 2025-01-03 00:00:00-2025-01-09 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:10 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775724
+date: 2024-09-19 00:00:00-2024-10-19 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:14 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775835
+date: 2025-01-12 00:00:00-2025-01-18 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:17 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775724
+date: 2025-01-02 00:00:00-2025-01-02 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:24 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775772
+date: 2025-01-28 00:00:00-2025-02-03 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:28 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775812
+date: 2025-02-09 00:00:00-2025-02-13 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:30 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775743
+date: 2024-10-07 00:00:00-2024-10-09 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:35 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775812
+date: 2025-01-12 00:00:00-2025-02-14 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:38 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775788
+date: 2024-09-17 00:00:00-2024-09-21 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:40 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775772
+date: 2024-11-29 00:00:00-2024-12-23 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:43 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775772
+date: 2025-01-12 00:00:00-2025-02-14 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:47 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775788
+date: 2025-01-02 00:00:00-2025-01-02 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:49 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775788
+date: 2024-09-27 00:00:00-2024-10-01 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:54 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775835
+date: 2024-11-09 00:00:00-2024-11-13 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:37
+2024-09-05 16:37:57 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775812
+date: 2025-01-05 00:00:00-2025-02-27 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:38
+2024-09-05 16:38:01 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775772
+date: 2024-11-09 00:00:00-2024-12-10 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:38
+2024-09-05 16:38:04 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775772
+date: 2025-01-28 00:00:00-2025-02-03 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:38
+2024-09-05 16:38:04 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1373887835
+date: 2024-09-27 00:00:00-2024-10-01 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:38
+2024-09-05 16:38:08 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775812
+date: 2024-09-20 00:00:00-2024-10-29 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:38
+2024-09-05 16:38:10 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775724
+date: 2024-09-21 00:00:00-2024-09-22 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:38
+2024-09-05 16:38:13 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775868
+date: 2024-12-15 00:00:00-2024-12-20 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:38
+2024-09-05 16:38:14 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775772
+date: 2024-10-18 00:00:00-2024-11-21 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:38
+2024-09-05 16:38:17 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775788
+date: 2024-10-02 00:00:00-2024-10-06 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:38
+2024-09-05 16:38:23 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775835
+date: 2024-09-29 00:00:00-2024-10-17 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:38
+2024-09-05 16:38:23 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775812
+date: 2025-01-04 00:00:00-2025-01-09 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:38
+2024-09-05 16:38:33 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775835
+date: 2024-09-19 00:00:00-2024-09-22 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+16:46
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:07 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 114504250 saleRoomId:1485795674
+date: 2024-09-07 00:00:00-2024-09-07 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:14 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 114504250 saleRoomId:1569484601
+date: 2024-09-07 00:00:00-2024-09-07 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+16:46
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:21 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 114504250 saleRoomId:1485466175
+date: 2024-09-07 00:00:00-2024-09-07 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:29 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 114504250 saleRoomId:1498505062
+date: 2024-09-07 00:00:00-2024-09-07 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:36 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 117153010 saleRoomId:1552412184
+date: 2024-09-28 00:00:00-2024-09-28 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:36 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 117153010 saleRoomId:1529225081
+date: 2024-09-28 00:00:00-2024-09-28 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:36 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 117153010 saleRoomId:1552411914
+date: 2024-09-28 00:00:00-2024-09-28 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:36 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 117153010 saleRoomId:1529225077
+date: 2024-09-28 00:00:00-2024-09-28 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:44 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 117153010 saleRoomId:1529225063
+date: 2024-09-28 00:00:00-2024-09-28 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:44 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 117153010 saleRoomId:1529225069
+date: 2024-09-28 00:00:00-2024-09-28 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:44 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 117153010 saleRoomId:1552599430
+date: 2024-09-28 00:00:00-2024-09-28 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:46
+2024-09-05 16:46:52 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 117153010 saleRoomId:1529225071
+date: 2024-09-28 00:00:00-2024-09-28 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:51
+2024-09-05 16:51:27 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1383324536
+date: 2024-10-01 00:00:00-2024-10-01 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:51
+2024-09-05 16:51:28 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1549625495
+date: 2024-09-30 00:00:00-2024-09-30 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:51
+2024-09-05 16:51:28 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1521113042
+date: 2024-09-30 00:00:00-2024-09-30 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:51
+2024-09-05 16:51:35 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1373887844
+date: 2024-09-30 00:00:00-2024-09-30 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:51
+2024-09-05 16:51:44 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1451037908
+date: 2024-09-30 00:00:00-2024-09-30 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:51
+2024-09-05 16:51:51 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1489092576
+date: 2024-09-30 00:00:00-2024-09-30 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:51
+2024-09-05 16:51:58 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1373887842
+date: 2024-09-30 00:00:00-2024-09-30 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:52
+2024-09-05 16:52:05 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1373887838
+date: 2024-09-30 00:00:00-2024-09-30 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"fail","errorDetail":"fail"}}
+
+港澳研发部（永安）
+16:56
+2024-09-05 16:56:11 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1402302887
+date: 2024-09-05 00:00:00-2024-09-05 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:57
+2024-09-05 16:57:20 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1474780039
+date: 2024-09-05 00:00:00-2025-03-31 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:57
+2024-09-05 16:57:35 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1390775713
+date: 2024-09-05 00:00:00-2025-03-31 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+16:57
+港澳研发部（永安）:
+2024-09-05 16:56:11@Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105762278 saleRoomId:1402302887
+date: 2024-09-05 00:00:00-2024-09-05 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+dlt接口问题, 当前产品已通知用户手动关闭chinaonline的售卖.
+
+港澳研发部（永安）
+16:58
+2024-09-05 16:58:00 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105760611 saleRoomId:1535570754
+date: 2024-09-15 00:00:00-2025-03-31 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:58
+2024-09-05 16:58:08 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105760611 saleRoomId:1397467485
+date: 2024-09-05 00:00:00-2025-03-31 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:58
+2024-09-05 16:58:09 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105760611 saleRoomId:1489091797
+date: 2024-09-05 00:00:00-2025-03-31 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:58
+2024-09-05 16:58:17 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105760611 saleRoomId:1397469480
+date: 2024-09-05 00:00:00-2025-03-31 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:58
+2024-09-05 16:58:24 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105760611 saleRoomId:1489091961
+date: 2024-09-05 00:00:00-2025-03-31 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+16:58
+2024-09-05 16:58:31 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 105760611 saleRoomId:1390776234
+date: 2024-09-05 00:00:00-2024-12-23 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+17:01
+2024-09-05 17:01:01 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 114504250 saleRoomId:1485795674
+date: 2024-09-05 00:00:00-2025-08-31 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+17:01
+2024-09-05 17:01:13 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 117153010 saleRoomId:1529225057
+date: 2024-09-05 00:00:00-2025-03-31 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}
+
+港澳研发部（永安）
+17:01
+2024-09-05 17:01:21 @Jinqiang Xu (徐金强)【HotelPlusChinaOnline PRO】重试四次batchPushRoomData失败, dltHotelId: 117153010 saleRoomId:1552414491
+date: 2024-09-05 00:00:00-2024-12-31 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常,
+rs: {"head":{"errcode":599,"errmessage":"请求过于频繁,请降低访问频次!","errorDetail":"请求过于频繁,请降低访问频次!"}}

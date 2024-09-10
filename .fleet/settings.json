@@ -1,0 +1,7 @@
+{
+    "editor.guides": [],
+    "files.exclude": [".DS_Store", ".git"],
+    "java.debugger.reloadClassesAfterCompilation": "Ask"
+
+
+}

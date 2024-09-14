@@ -20,7 +20,7 @@ mapper.apply {
     // 反序列化时忽略未知属性
     configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false)
 }
-val fixPriceUrl = "http://hotel-plus-chinaonline-wingon-open-api.wingontravel.ctripcorp.com/fixWotPrice/true/all/"
+val fixPriceUrl = "http://"
 
 
 fun httpGet(url: String): Any? {

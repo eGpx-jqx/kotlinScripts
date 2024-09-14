@@ -67,8 +67,5 @@ fun main() {
 }
 
 
-// 以下无效代码
-data class User(val name: String?, val age: Int)
-val user = User(null, 30)
-val jsonString: String? = mapper.writeValueAsString(user)
-println("Serialized JSON: $jsonString")
+// 执行脚本
+main()

@@ -41,7 +41,7 @@ fun httpGet(url: String): Any? {
 
 fun extractData(): Set<String> {
     val mutableListOf = mutableSetOf<String>()
-    val fileName = "resource/errorAlert.txt"
+    val fileName = "../resource/errorAlert.txt"
     val file = File(fileName)
     val readText = file.readText(Charsets.UTF_8)
     val regex = Regex("saleRoomId:(\\d+)")

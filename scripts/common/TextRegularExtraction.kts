@@ -16,5 +16,5 @@ fun extractData(): Set<String> {
 }
 
 // 引入它的其他脚本不会执行这个
-extractData().forEach { println(it) }
+extractData().joinToString(", ")
 

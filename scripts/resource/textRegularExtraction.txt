@@ -1,0 +1,67 @@
+2024-09-26 14:55:19 @Jinqiang Xu (徐金强)【hotel-wingon PRO】重试四次batchPushRoomData失败, dltHotelId: 108828215 saleRoomId:1585080938
+date: 2024-12-15 00:00:00-2024-12-15 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常
+rs: {"head":{"errcode":599,"errmessage":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n","errorDetail":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n"}}
+
+港澳研发部（永安）
+14:55
+2024-09-26 14:55:34 @Jinqiang Xu (徐金强)【hotel-wingon PRO】重试四次batchPushRoomData失败, dltHotelId: 108828215 saleRoomId:1449158002
+date: 2024-12-02 00:00:00-2024-12-02 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常
+rs: {"head":{"errcode":599,"errmessage":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n","errorDetail":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n"}}
+
+港澳研发部（永安）
+14:55
+2024-09-26 14:55:43 @Jinqiang Xu (徐金强)【hotel-wingon PRO】重试四次batchPushRoomData失败, dltHotelId: 108828215 saleRoomId:1551824829
+date: 2024-12-17 00:00:00-2024-12-17 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常
+rs: {"head":{"errcode":599,"errmessage":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n","errorDetail":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n"}}
+
+港澳研发部（永安）
+14:55
+2024-09-26 14:55:50 @Jinqiang Xu (徐金强)【hotel-wingon PRO】重试四次batchPushRoomData失败, dltHotelId: 108828215 saleRoomId:1551824618
+date: 2024-12-04 00:00:00-2024-12-04 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常
+rs: {"head":{"errcode":599,"errmessage":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n","errorDetail":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n"}}
+
+港澳研发部（永安）
+14:55
+2024-09-26 14:55:56 @Jinqiang Xu (徐金强)【hotel-wingon PRO】重试四次batchPushRoomData失败, dltHotelId: 108828215 saleRoomId:1449157434
+date: 2024-12-18 00:00:00-2024-12-18 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常
+rs: {"head":{"errcode":599,"errmessage":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n","errorDetail":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n"}}
+
+港澳研发部（永安）
+14:56
+2024-09-26 14:56:03 @Jinqiang Xu (徐金强)【hotel-wingon PRO】重试四次batchPushRoomData失败, dltHotelId: 108828215 saleRoomId:1551824618
+date: 2024-12-06 00:00:00-2024-12-06 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常
+rs: {"head":{"errcode":599,"errmessage":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n","errorDetail":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n"}}
+
+港澳研发部（永安）
+14:56
+2024-09-26 14:56:11 @Jinqiang Xu (徐金强)【hotel-wingon PRO】重试四次batchPushRoomData失败, dltHotelId: 108828215 saleRoomId:1482984485
+date: 2024-12-20 00:00:00-2024-12-20 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常
+rs: {"head":{"errcode":599,"errmessage":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n","errorDetail":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n"}}
+
+港澳研发部（永安）
+14:56
+2024-09-26 14:56:19 @Jinqiang Xu (徐金强)【hotel-wingon PRO】重试四次batchPushRoomData失败, dltHotelId: 108828215 saleRoomId:1449158002
+date: 2024-12-08 00:00:00-2024-12-08 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常
+rs: {"head":{"errcode":599,"errmessage":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n","errorDetail":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n"}}
+
+港澳研发部（永安）
+14:56
+2024-09-26 14:56:26 @Jinqiang Xu (徐金强)【hotel-wingon PRO】重试四次batchPushRoomData失败, dltHotelId: 108828215 saleRoomId:1551824829
+date: 2024-12-22 00:00:00-2024-12-22 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常
+rs: {"head":{"errcode":599,"errmessage":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n","errorDetail":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n"}}
+
+港澳研发部（永安）
+14:56
+2024-09-26 14:56:34 @Jinqiang Xu (徐金强)【hotel-wingon PRO】重试四次batchPushRoomData失败, dltHotelId: 108828215 saleRoomId:1482984361
+date: 2024-12-10 00:00:00-2024-12-10 00:00:00
+errs: org.springframework.retry.RetryException: batchPushRoomData调用异常
+rs: {"head":{"errcode":599,"errmessage":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n","errorDetail":"{\"errcode\":599,\"errmessage\":\"请求过于频繁,请降低访问频次!\",\"errorDetail\":\"\"}\n"}}

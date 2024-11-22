@@ -1,6 +1,7 @@
 #!usr/bin/env kotlin
 
 @file:DependsOn("com.alibaba:easyexcel:4.0.3")
+@file:DependsOn("com.fasterxml.jackson.module:jackson-module-kotlin:2.17.2")
 
 import com.alibaba.excel.EasyExcel
 import com.alibaba.excel.annotation.ExcelIgnore
@@ -57,10 +58,12 @@ fun readExcel(fileName: String): MutableList<SourceData> {
     EasyExcel.read(fileName, SourceData::class.java, PageReadListener<SourceData>(trs::addAll, 1000)).sheet().doRead()
     trs.forEach {
         if (it.cityIds != null) {
-            it.cityIds = it.cityIds!!.split(",").filter { it.isNotEmpty() && it.toInt() > 0 }.sorted().distinct().joinToString(",")
+            it.cityIds = it.cityIds!!.split(",").filter { it.isNotEmpty() && it.toInt() > 0 }.sorted().distinct()
+                .joinToString(",")
         }
         if (it.poids != null) {
-            it.poids = it.poids!!.split(",").filter { it.isNotEmpty() && it.toInt() > 0 }.sorted().distinct().joinToString(",")
+            it.poids =
+                it.poids!!.split(",").filter { it.isNotEmpty() && it.toInt() > 0 }.sorted().distinct().joinToString(",")
         }
         if (it.cityNames != null) {
             it.cityNames = it.cityNames!!.split(",").filter { it.isNotEmpty() }.sorted().distinct().joinToString(",")
@@ -110,14 +113,14 @@ fun main() {
 
     println("马德里: ${mdl.size}, 北海道: ${bhd.size}, 桂林: ${gl.size}")
 
-    val cityMdl = handleExcel(1, mdl).let {it.sortedBy { it.CommonID }}
-    val poiMdl = handleExcel(2, mdl).let {it.sortedBy { it.CommonID }}
+    val cityMdl = handleExcel(1, mdl).let { it.sortedBy { it.CommonID } }
+    val poiMdl = handleExcel(2, mdl).let { it.sortedBy { it.CommonID } }
 
-    val cityBhd = handleExcel(1, bhd).let {it.sortedBy { it.CommonID }}
-    val poiBhd = handleExcel(2, bhd).let {it.sortedBy { it.CommonID }}
+    val cityBhd = handleExcel(1, bhd).let { it.sortedBy { it.CommonID } }
+    val poiBhd = handleExcel(2, bhd).let { it.sortedBy { it.CommonID } }
 
-    val cityGl = handleExcel(1, gl).let {it.sortedBy { it.CommonID }}
-    val poiGl = handleExcel(2, gl).let {it.sortedBy { it.CommonID }}
+    val cityGl = handleExcel(1, gl).let { it.sortedBy { it.CommonID } }
+    val poiGl = handleExcel(2, gl).let { it.sortedBy { it.CommonID } }
 
 //    println("马德里城市: ${cityMdl.size}, 马德里景点: ${poiMdl.size}, 北海道城市: ${cityBhd.size}, 北海道景点: ${poiBhd.size}, 桂林城市: ${cityGl.size}, 桂林景点: ${poiGl.size}")
 //    println("马德里: ${cityMdl.joinToString(",", transform = { it.CommonID.toString() })}")
@@ -125,16 +128,15 @@ fun main() {
 //    println("桂林: ${cityGl.joinToString(",", transform = { it.CommonID.toString() })}")
 
 
-
-    var fileName = "D:\\Users\\jinqiangxu\\Downloads\\产品聚合.xlsx"
-    var excelWriter = EasyExcel.write(fileName, TargetData::class.java).build()
-    excelWriter.write(cityMdl, EasyExcel.writerSheet("马德里城市聚合").build())
-    excelWriter.write(poiMdl, EasyExcel.writerSheet("马德里景点聚合").build())
-    excelWriter.write(cityBhd, EasyExcel.writerSheet("北海道城市聚合").build())
-    excelWriter.write(poiBhd, EasyExcel.writerSheet("北海道景点聚合").build())
-    excelWriter.write(cityGl, EasyExcel.writerSheet("桂林城市聚合").build())
-    excelWriter.write(poiGl, EasyExcel.writerSheet("桂林景点聚合").build())
-    excelWriter.close()
+//    var fileName = "D:\\Users\\jinqiangxu\\Downloads\\产品聚合带景点.xlsx"
+//    var excelWriter = EasyExcel.write(fileName, TargetData::class.java).build()
+//    excelWriter.write(cityMdl, EasyExcel.writerSheet("马德里城市聚合").build())
+//    excelWriter.write(poiMdl, EasyExcel.writerSheet("马德里景点聚合").build())
+//    excelWriter.write(cityBhd, EasyExcel.writerSheet("北海道城市聚合").build())
+//    excelWriter.write(poiBhd, EasyExcel.writerSheet("北海道景点聚合").build())
+//    excelWriter.write(cityGl, EasyExcel.writerSheet("桂林城市聚合").build())
+//    excelWriter.write(poiGl, EasyExcel.writerSheet("桂林景点聚合").build())
+//    excelWriter.close()
 }
 
 main()
@@ -178,8 +180,9 @@ data class TargetData(
     @ExcelProperty("途径城市")
     @ColumnWidth(80)
     var cityNames: String,
-//    @ExcelProperty("poids")
-    @ExcelIgnore
+    @ExcelProperty("景点id")
+    @ColumnWidth(80)
+//    @ExcelIgnore
     var poids: String? = null,
 )
 

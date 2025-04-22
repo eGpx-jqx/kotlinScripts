@@ -52,7 +52,7 @@ fun extractData(): Set<String> {
 }
 
 fun main() {
-    val saleRoomids = this.extractData()
+    val saleRoomids = extractData()
     println("saleRoomids: $saleRoomids, ${saleRoomids.size}")
     saleRoomids.withIndex().forEach { p ->
         p.run {

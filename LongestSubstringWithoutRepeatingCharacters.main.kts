@@ -1,5 +1,4 @@
 #!/usr/bin/env kotlin
 
-@file:Import("../common/TextRegularExtraction.kts")
+@file:Import("../kotlinScripts/TextRegularExtraction.kts")
 
-extractData()
